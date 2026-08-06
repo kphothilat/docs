@@ -1,12 +1,12 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "almond",
+  "theme": "maple",
   "name": "Product Guide",
   "description": "Step-by-step guides for every product—platform setup, analytics, and integrations in one place.",
   "colors": {
-    "primary": "#166E3F",
-    "light": "#26BD6C",
-    "dark": "#166E3F"
+    "primary": "#6e161c",
+    "light": "#6e161c",
+    "dark": "#6e161c"
   },
   "favicon": "/favicon.ico",
   "icons": {
@@ -57,7 +57,6 @@
         "icon": "chart-bar",
         "expanded": true,
         "pages": [
-          "analytics/quickstart",
           "analytics/connect-data",
           "analytics/dashboards/create-dashboard",
           "analytics/reports/scheduled-reports"
