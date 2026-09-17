@@ -39,7 +39,7 @@
       ]
     },
     "directory": "card",
-    "groups": [
+    "pages": [
       {
         "group": "DK",
         "icon": "layers",
@@ -48,7 +48,8 @@
           "platform/quickstart",
           "analytics/dashboards/create-dashboard"
         ]
-      }
+      },
+      "untitled-page"
     ]
   },
   "logo": {
